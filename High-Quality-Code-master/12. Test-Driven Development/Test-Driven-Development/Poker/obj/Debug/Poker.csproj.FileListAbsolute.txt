@@ -1,0 +1,4 @@
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\Poker\bin\Debug\Poker.dll
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\Poker\bin\Debug\Poker.pdb
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\Poker\obj\Debug\Poker.dll
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\Poker\obj\Debug\Poker.pdb

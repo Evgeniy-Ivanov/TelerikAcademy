@@ -1,0 +1,6 @@
+K:\2015\Telerik academy\HOMEWORKS\Ange-Git-master\MyTelerikAcademyHomeWorks\HighQualityCode\HW13.Refactoring\MatrixRotatingWalk\bin\Debug\MatrixRotatingWalk.exe.config
+K:\2015\Telerik academy\HOMEWORKS\Ange-Git-master\MyTelerikAcademyHomeWorks\HighQualityCode\HW13.Refactoring\MatrixRotatingWalk\bin\Debug\MatrixRotatingWalk.exe
+K:\2015\Telerik academy\HOMEWORKS\Ange-Git-master\MyTelerikAcademyHomeWorks\HighQualityCode\HW13.Refactoring\MatrixRotatingWalk\bin\Debug\MatrixRotatingWalk.pdb
+K:\2015\Telerik academy\HOMEWORKS\Ange-Git-master\MyTelerikAcademyHomeWorks\HighQualityCode\HW13.Refactoring\MatrixRotatingWalk\obj\Debug\MatrixRotatingWalk.csprojResolveAssemblyReference.cache
+K:\2015\Telerik academy\HOMEWORKS\Ange-Git-master\MyTelerikAcademyHomeWorks\HighQualityCode\HW13.Refactoring\MatrixRotatingWalk\obj\Debug\MatrixRotatingWalk.exe
+K:\2015\Telerik academy\HOMEWORKS\Ange-Git-master\MyTelerikAcademyHomeWorks\HighQualityCode\HW13.Refactoring\MatrixRotatingWalk\obj\Debug\MatrixRotatingWalk.pdb

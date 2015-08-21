@@ -1,0 +1,9 @@
+K:\2015\Telerik academy\CS_Stopwatch_demo\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe.config
+K:\2015\Telerik academy\CS_Stopwatch_demo\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe
+K:\2015\Telerik academy\CS_Stopwatch_demo\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.pdb
+K:\2015\Telerik academy\CS_Stopwatch_demo\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.exe
+K:\2015\Telerik academy\CS_Stopwatch_demo\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.pdb
+K:\2015\Telerik academy\CS_Stopwatch_demo\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.csprojResolveAssemblyReference.cache
+K:\2015\Telerik academy\Performance test\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe.config
+K:\2015\Telerik academy\Performance test\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.exe
+K:\2015\Telerik academy\Performance test\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.pdb

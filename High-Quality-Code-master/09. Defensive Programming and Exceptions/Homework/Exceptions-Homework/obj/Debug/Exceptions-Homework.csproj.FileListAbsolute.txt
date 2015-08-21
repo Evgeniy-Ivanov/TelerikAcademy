@@ -1,0 +1,10 @@
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+K:\2015\Telerik academy\Quality Programming Code\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+K:\2015\Telerik academy\Quality Programming Code\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
+K:\2015\Telerik academy\Quality Programming Code\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+K:\2015\Telerik academy\Quality Programming Code\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+K:\2015\Telerik academy\Quality Programming Code\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+K:\2015\Telerik academy\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.dll
+K:\2015\Telerik academy\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.pdb
+K:\2015\Telerik academy\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.dll
+K:\2015\Telerik academy\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.pdb
+K:\2015\Telerik academy\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.XML

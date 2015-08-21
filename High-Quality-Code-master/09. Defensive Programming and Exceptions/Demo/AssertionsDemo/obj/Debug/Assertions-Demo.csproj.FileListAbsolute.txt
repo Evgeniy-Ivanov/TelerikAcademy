@@ -1,0 +1,5 @@
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Demo\AssertionsDemo\bin\Debug\AssertionsDemo.exe
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Demo\AssertionsDemo\bin\Debug\AssertionsDemo.pdb
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Demo\AssertionsDemo\obj\Debug\Assertions-Demo.csprojResolveAssemblyReference.cache
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Demo\AssertionsDemo\obj\Debug\AssertionsDemo.exe
+K:\2015\Telerik academy\High-Quality-Code-master\09. Defensive Programming and Exceptions\Demo\AssertionsDemo\obj\Debug\AssertionsDemo.pdb

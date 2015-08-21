@@ -1,0 +1,8 @@
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\bin\Debug\PokerExample.exe.config
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\bin\Debug\PokerExample.exe
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\bin\Debug\PokerExample.pdb
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\bin\Debug\Poker.dll
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\bin\Debug\Poker.pdb
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\obj\Debug\PokerExample.csprojResolveAssemblyReference.cache
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\obj\Debug\PokerExample.exe
+K:\2015\Telerik academy\HOMEWORKS\Test-Driven-Development\PokerExample\obj\Debug\PokerExample.pdb

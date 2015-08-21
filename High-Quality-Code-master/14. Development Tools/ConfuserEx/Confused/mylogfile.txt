@@ -1,0 +1,19 @@
+15:13:53,716 [1] FATAL Log4NetTest.frmMain - Fatal error logging
+System.IO.FileNotFoundException: Unable to find the specified file.
+   at Log4NetTest.frmMain.butRunTest_Click(Object sender, EventArgs e) in k:\2015\Telerik academy\High-Quality-Code\High-Quality-Code-master\14. Development Tools\Log4netTest\Log4NetTest\frmMain.cs:line 44
+15:24:31,700 [8] FATAL Log4NetTest.frmMain - Fatal error logging
+System.IO.FileNotFoundException: Unable to find the specified file.
+   at Log4NetTest.frmMain.butRunTest_Click(Object sender, EventArgs e) in k:\2015\Telerik academy\High-Quality-Code\High-Quality-Code-master\14. Development Tools\Log4netTest\Log4NetTest\frmMain.cs:line 44
+15:24:39,326 [8] FATAL Log4NetTest.frmMain - Fatal error logging
+System.IO.FileNotFoundException: Unable to find the specified file.
+   at Log4NetTest.frmMain.butRunTest_Click(Object sender, EventArgs e) in k:\2015\Telerik academy\High-Quality-Code\High-Quality-Code-master\14. Development Tools\Log4netTest\Log4NetTest\frmMain.cs:line 44
+15:27:33,646 [8] FATAL Log4NetTest.frmMain - Fatal error logging
+System.InvalidOperationException: Form that is already visible cannot be displayed as a modal dialog box. Set the form's visible property to false before calling showDialog.
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at Log4NetTest.frmMain.butRunTest_Click(Object sender, EventArgs e) in k:\2015\Telerik academy\High-Quality-Code\High-Quality-Code-master\14. Development Tools\Log4netTest\Log4NetTest\frmMain.cs:line 44
+15:27:36,422 [8] FATAL Log4NetTest.frmMain - Fatal error logging
+System.InvalidOperationException: Form that is already visible cannot be displayed as a modal dialog box. Set the form's visible property to false before calling showDialog.
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at Log4NetTest.frmMain.butRunTest_Click(Object sender, EventArgs e) in k:\2015\Telerik academy\High-Quality-Code\High-Quality-Code-master\14. Development Tools\Log4netTest\Log4NetTest\frmMain.cs:line 44

@@ -1,0 +1,11 @@
+K:\2015\Telerik academy\High-Quality-Code-master\bin\Release\SolarSystem.exe
+K:\2015\Telerik academy\High-Quality-Code-master\bin\Release\SolarSystem.pdb
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\MainWindow.g.cs
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\App.g.cs
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\GeneratedInternalTypeHelper.g.cs
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem_MarkupCompile.cache
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem_MarkupCompile.lref
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\MainWindow.baml
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem.g.resources
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem.exe
+K:\2015\Telerik academy\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem.pdb

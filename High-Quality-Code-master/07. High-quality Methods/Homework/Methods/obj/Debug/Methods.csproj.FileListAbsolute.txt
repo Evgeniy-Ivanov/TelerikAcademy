@@ -1,0 +1,4 @@
+K:\2015\Telerik academy\High-Quality-Code-master\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.exe
+K:\2015\Telerik academy\High-Quality-Code-master\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.pdb
+K:\2015\Telerik academy\High-Quality-Code-master\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.exe
+K:\2015\Telerik academy\High-Quality-Code-master\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.pdb
